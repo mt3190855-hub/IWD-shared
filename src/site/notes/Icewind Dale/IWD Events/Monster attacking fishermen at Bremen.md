@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/icewind-dale/iwd-events/monster-attacking-fishermen-at-bremen/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/icewind-dale/iwd-events/monster-attacking-fishermen-at-bremen/","dg-note-properties":{"fc-date":"11-Ches-1498"}}
 ---
 
 [[Icewind Dale/IWD Sessions/Session 1\|Session 1]]

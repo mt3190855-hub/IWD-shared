@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/icewind-dale/iwd-sessions/session-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/icewind-dale/iwd-sessions/session-1/","tags":["Event"],"dg-note-properties":{"fc-date":"11-Ches-1498","tags":["Event"]}}
 ---
+
 
 
 We start at the [[Icewind Dale/IWD Towns/Bremen\|Bremen]] docks [[Icewind Dale/IWD Events/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
