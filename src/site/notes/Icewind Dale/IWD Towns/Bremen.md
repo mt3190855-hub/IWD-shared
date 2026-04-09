@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/icewind-dale/iwd-towns/bremen/","dg-note-properties":{}}
 ---
 
+One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 ### People
 [[Icewind Dale/IWD NPCs/Nass lantomir\|Nass lantomir]]
 [[Icewind Dale/IWD NPCs/grynsk berylbore\|grynsk berylbore]]

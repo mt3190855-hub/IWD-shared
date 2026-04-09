@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/icewind-dale/iwd-towns/targos/","dg-note-properties":{}}
 ---
 
+One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 ### People
 [[Icewind Dale/IWD NPCs/karim wallow\|karim wallow]]
 [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] - deceased
