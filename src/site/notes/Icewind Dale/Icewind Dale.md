@@ -4,4 +4,4 @@
 
 This covers the adventures of [[Icewind Dale/IWD Players/IWD Party\|IWD Party]] as they try and stop [[Icewind Dale/IWD NPCs/Auril\|Auril]] and save the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 
-[[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
+The adventure begins here [[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
