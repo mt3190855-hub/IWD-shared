@@ -7,15 +7,16 @@
 [[grynsk berylbore\|grynsk berylbore]]
 [[Icewind Dale/IWD NPCs/tali\|tali]]
 [[Icewind Dale/IWD NPCs/edgar ironspike\|edgar ironspike]]
-[[dorbulgruf shalescar\|dorbulgruf shalescar]]
+[[dorbulgruf shalescar\|dorbulgruf shalescar]] speaker
 
 ### Locations
-Buried Treasures Inn
-Five taverns in centre
-Speaker drinks in Stones
+[[Icewind Dale/IWD Locations/buried treasures\|buried treasures]]
+[[Icewind Dale/IWD Locations/five taverns\|five taverns]]
+Speaker [[dorbulgruf shalescar\|dorbulgruf shalescar]] drinks in [[stones\|stones]]
 
 ### Events
-Monster attacking fishermen
+[[Icewind Dale/IWD Events/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
+[[Icewind Dale/IWD Events/Murder of Antori Wallow\|Murder of Antori Wallow]]
 
 ### Sacrifice
 They sacrifice warmth/heat once per month
