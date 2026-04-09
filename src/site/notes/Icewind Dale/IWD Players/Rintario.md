@@ -3,4 +3,4 @@
 ---
 
 Brother of [[Icewind Dale/IWD Players/Phenrere\|Phenrere]]
-Searching for [[Icewind Dale/IWD NPCs/Nass lantomir\|Nass lantomir]]
+Searching for [[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]]

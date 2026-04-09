@@ -4,16 +4,16 @@
 
 One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 ### People
-[[Icewind Dale/IWD NPCs/Nass lantomir\|Nass lantomir]]
-[[Icewind Dale/IWD NPCs/grynsk berylbore\|grynsk berylbore]]
-[[Icewind Dale/IWD NPCs/tali\|tali]]
-[[Icewind Dale/IWD NPCs/edgar ironspike\|edgar ironspike]]
-[[dorbulgruf shalescar\|dorbulgruf shalescar]] speaker
+[[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]]
+[[Icewind Dale/IWD NPCs/Grynsk Berylbore\|Grynsk Berylbore]]
+[[Icewind Dale/IWD NPCs/Tali\|Tali]]
+[[Icewind Dale/IWD NPCs/Edgar Ironspike\|Edgar Ironspike]]
+[[Icewind Dale/IWD NPCs/Dorbulgruf Shalescar\|Dorbulgruf Shalescar]] speaker
 
 ### Locations
-[[Icewind Dale/IWD Locations/buried treasures\|buried treasures]]
-[[Icewind Dale/IWD Locations/five taverns\|five taverns]]
-Speaker [[dorbulgruf shalescar\|dorbulgruf shalescar]] drinks in [[stones\|stones]]
+[[Icewind Dale/IWD Locations/Buried Treasures\|Buried Treasures]]
+[[Icewind Dale/IWD Locations/Five Taverns\|Five Taverns]]
+Speaker [[Icewind Dale/IWD NPCs/Dorbulgruf Shalescar\|Dorbulgruf Shalescar]] drinks in [[Icewind Dale/IWD Locations/Stones\|Stones]]
 
 ### Events
 [[Icewind Dale/IWD Events/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]

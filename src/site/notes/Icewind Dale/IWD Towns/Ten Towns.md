@@ -8,4 +8,4 @@
 [[Icewind Dale/IWD Towns/Bremen\|Bremen]]
 [[Icewind Dale/IWD Towns/Targos\|Targos]]
 [[Icewind Dale/IWD Towns/Easthaven\|Easthaven]]
-[[bryn shander\|bryn shander]]
+[[Icewind Dale/IWD Towns/Bryn Shander\|Bryn Shander]]

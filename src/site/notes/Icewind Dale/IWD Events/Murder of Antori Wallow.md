@@ -4,7 +4,7 @@
 
 [[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
 
-we encounter two ghouls eating a fresh corpse of [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] son of [[Icewind Dale/IWD NPCs/karim wallow\|karim wallow]]
+we encounter two ghouls eating a fresh corpse of [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] son of [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]]
 We slay the ghouls and investigate the body.
 It has been killed by a skilled person using an ice knife
 The guards mention a rumour [[Icewind Dale/IWD Rumours/killer\|killer]] but they dont know much as first one in [[Icewind Dale/IWD Towns/Bremen\|Bremen]]

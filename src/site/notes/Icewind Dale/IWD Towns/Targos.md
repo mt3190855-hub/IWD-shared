@@ -4,7 +4,7 @@
 
 One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 ### People
-[[Icewind Dale/IWD NPCs/karim wallow\|karim wallow]]
+[[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]]
 [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] - deceased
 
 ### Locations
