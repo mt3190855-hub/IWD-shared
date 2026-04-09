@@ -4,7 +4,7 @@
 
 ### People
 [[Icewind Dale/IWD NPCs/Nass lantomir\|Nass lantomir]]
-[[grynsk berylbore\|grynsk berylbore]]
+[[Icewind Dale/IWD NPCs/grynsk berylbore\|grynsk berylbore]]
 [[Icewind Dale/IWD NPCs/tali\|tali]]
 [[Icewind Dale/IWD NPCs/edgar ironspike\|edgar ironspike]]
 [[dorbulgruf shalescar\|dorbulgruf shalescar]] speaker

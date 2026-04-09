@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/icewind-dale/iwd-np-cs/edgar-ironspike/","dg-note-properties":{}}
 ---
 
+First encountered in [[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
 Friend and carer? of [[dorbulgruf shalescar\|dorbulgruf shalescar]] in [[Icewind Dale/IWD Towns/Bremen\|Bremen]]
 Dwarf male
 Drinks in [[stones\|stones]]
