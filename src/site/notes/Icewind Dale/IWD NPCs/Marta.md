@@ -4,4 +4,4 @@
 
 Owner of the [[Icewind Dale/IWD Locations/Bremen/Buried Treasures\|Buried Treasures]] in [[Icewind Dale/IWD Towns/Bremen\|Bremen]]
 
-Starts [[Icewind Dale/IWD Quests/Magical Ring - Cursed\|Magical Ring - Cursed]]
+Starts [[Icewind Dale/IWD Quests/Active/Magical Ring - Cursed\|Magical Ring - Cursed]]

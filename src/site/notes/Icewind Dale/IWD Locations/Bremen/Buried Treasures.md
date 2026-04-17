@@ -10,4 +10,4 @@ Owner is young female, [[Icewind Dale/IWD NPCs/Marta\|Marta]] inherited from gra
 
 Mentioned [[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]] stayed there
 
-Gave [[Icewind Dale/IWD Quests/Magical Ring - Cursed\|Magical Ring - Cursed]] to [[Icewind Dale/IWD Players/Phenrere\|Phenrere]]
+Gave [[Icewind Dale/IWD Quests/Active/Magical Ring - Cursed\|Magical Ring - Cursed]] to [[Icewind Dale/IWD Players/Phenrere\|Phenrere]]

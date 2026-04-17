@@ -7,4 +7,4 @@ Knows [[Icewind Dale/IWD Players/Rintario\|Rintario]] but gets his name incorrec
 
 Is searching for [[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]]
 
-In [[Icewind Dale/IWD Sessions/Session 2\|Session 2]] hires the party to solve [[Icewind Dale/IWD Quests/Ice Knife Killer\|Ice Knife Killer]]
+In [[Icewind Dale/IWD Sessions/Session 2\|Session 2]] hires the party to solve [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]]

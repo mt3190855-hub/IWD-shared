@@ -4,4 +4,4 @@
 
 30 minutes from [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]]
 Towns main source of income
-Having problems [[Icewind Dale/IWD Quests/Monsters in Gem Mine\|Monsters in Gem Mine]]
+Having problems [[Icewind Dale/IWD Quests/Active/Monsters in Gem Mine\|Monsters in Gem Mine]]

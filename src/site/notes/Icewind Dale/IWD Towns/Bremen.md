@@ -18,10 +18,11 @@ Speaker [[Icewind Dale/IWD NPCs/Dorbulgruf Shalescar\|Dorbulgruf Shalescar]] dri
 On [[Icewind Dale/IWD Locations/Wilds/Maer Dualdon\|Maer Dualdon]]
 
 ### Events
-[[Icewind Dale/IWD Quests/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
-[[Icewind Dale/IWD Quests/Murder of Karim Wallow\|Murder of Karim Wallow]]
+[[Icewind Dale/IWD Quests/Resolved/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
+[[Icewind Dale/IWD Quests/Resolved/Murder of Karim Wallow\|Murder of Karim Wallow]]
+[[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
 
 ### Sacrifice
-[[Icewind Dale/IWD Quests/Sacrifices\|Sacrifices]] They sacrifice warmth/heat once per month
+[[Icewind Dale/IWD Quests/Active/Sacrifices\|Sacrifices]] They sacrifice warmth/heat once per month
 
 ![Bremen Map.png](/img/user/Icewind%20Dale/z_IWD_attachments/Bremen%20Map.png)

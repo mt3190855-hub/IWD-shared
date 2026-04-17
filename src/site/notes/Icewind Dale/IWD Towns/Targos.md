@@ -11,8 +11,8 @@ One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 speaker stays in [[Icewind Dale/IWD Locations/Targos/The Luskan Arms\|The Luskan Arms]]  [[Icewind Dale/IWD NPCs/Naerth Maxildanarr\|Naerth Maxildanarr]]
 [[Icewind Dale/IWD NPCs/Ivan\|Ivan]] a member of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]]
 [[Icewind Dale/IWD NPCs/Leita\|Leita]] town leader of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]]
-[[Icewind Dale/IWD NPCs/Torgg\|Torgg]] merchant, travels, employer of [[Icewind Dale/IWD NPCs/Sephek Ka\|Sephek Ka]]
-[[Icewind Dale/IWD NPCs/Sephek Ka\|Sephek Ka]] suspected [[Icewind Dale/IWD Quests/Ice Knife Killer\|Ice Knife Killer]]
+[[Icewind Dale/IWD NPCs/Torgg\|Torgg]] merchant, travels, employer of [[Icewind Dale/IWD NPCs/Sephek Kalto\|Sephek Kalto]]
+[[Icewind Dale/IWD NPCs/Sephek Kalto\|Sephek Kalto]] suspected [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]]
 
 ### Locations
 On [[Icewind Dale/IWD Locations/Wilds/Maer Dualdon\|Maer Dualdon]]
@@ -22,9 +22,10 @@ On [[Icewind Dale/IWD Locations/Wilds/Maer Dualdon\|Maer Dualdon]]
 
 
 ### Events
-Habitant [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]] was murdered [[Icewind Dale/IWD Quests/Murder of Karim Wallow\|Murder of Karim Wallow]] in [[Icewind Dale/IWD Towns/Bremen\|Bremen]] maybe by [[Icewind Dale/IWD Quests/Ice Knife Killer\|Ice Knife Killer]]
-[[Icewind Dale/IWD Quests/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]], [[Icewind Dale/IWD NPCs/Ravison\|Ravison]] told [[Icewind Dale/IWD NPCs/Awakened Plesiosaurus\|Awakened Plesiosaurus]] not to attack [[Icewind Dale/IWD Towns/Targos\|Targos]] fishermen
+Habitant [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]] was murdered [[Icewind Dale/IWD Quests/Resolved/Murder of Karim Wallow\|Murder of Karim Wallow]] in [[Icewind Dale/IWD Towns/Bremen\|Bremen]] maybe by [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]]
+[[Icewind Dale/IWD Quests/Resolved/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]], [[Icewind Dale/IWD NPCs/Ravison\|Ravison]] told [[Icewind Dale/IWD NPCs/Awakened Plesiosaurus\|Awakened Plesiosaurus]] not to attack [[Icewind Dale/IWD Towns/Targos\|Targos]] fishermen
+[[Icewind Dale/IWD Sessions/Session 2\|Session 2]]
 
 
 ### Sacrifice
-Unknown, probably human as larger settlement
+Person

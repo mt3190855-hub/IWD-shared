@@ -18,5 +18,5 @@
 [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]]
 
 ### Culture
-[[Icewind Dale/IWD Quests/Sacrifices\|Sacrifices]]
+[[Icewind Dale/IWD Quests/Active/Sacrifices\|Sacrifices]]
 [[Icewind Dale/IWD NPCs/People's Pasts\|People's Pasts]]

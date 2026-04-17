@@ -3,4 +3,4 @@
 ---
 
 Translucent gem, diamond shaped, swirling.
-[[Icewind Dale/IWD Quests/Korva's Lost Son\|Korva's Lost Son]]
+[[Icewind Dale/IWD Quests/Active/Korva's Lost Son\|Korva's Lost Son]]

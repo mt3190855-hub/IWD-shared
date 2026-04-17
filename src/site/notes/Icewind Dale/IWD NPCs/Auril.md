@@ -3,4 +3,4 @@
 ---
 
 Frostmaiden
-Blamed for the [[Icewind Dale/IWD Quests/Eternal Winter\|Eternal Winter]]
+Blamed for the [[Icewind Dale/IWD Quests/Active/Eternal Winter\|Eternal Winter]]
