@@ -6,8 +6,8 @@ First hear about them in [[Icewind Dale/IWD Sessions/Session 1\|Session 1]]
 
 Description: horned female, white clothing, carried a staff, with a talking bush
 
-Cast a high level awaken spell [[Icewind Dale/IWD Events/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
+Cast a high level awaken spell [[Icewind Dale/IWD Quests/Monster attacking fishermen at Bremen\|Monster attacking fishermen at Bremen]]
 
-Said doing the work of [[Icewind Dale/IWD NPCs/Auril\|Auril]]
+Said they were doing the work of [[Icewind Dale/IWD NPCs/Auril\|Auril]]
 
 Targeted [[Icewind Dale/IWD Towns/Bremen\|Bremen]] specifically and not [[Icewind Dale/IWD Towns/Targos\|targos]]

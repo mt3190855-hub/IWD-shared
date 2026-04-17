@@ -4,4 +4,4 @@
 
 [[Icewind Dale/IWD Towns/Speakers\|Speakers]] of [[Icewind Dale/IWD Towns/Bremen\|Bremen]]
 Now very old, his friend [[Icewind Dale/IWD NPCs/Edgar Ironspike\|Edgar Ironspike]] helps him
-The [[Icewind Dale/IWD Players/IWD Party\|IWD Party]] met him in [[Icewind Dale/IWD Sessions/Session 1\|Session 1]] in [[Icewind Dale/IWD Locations/Stones\|Stones]]
+The [[Icewind Dale/IWD Players/IWD Party\|IWD Party]] met him in [[Icewind Dale/IWD Sessions/Session 1\|Session 1]] in [[Icewind Dale/IWD Locations/Bremen/Stones Tavern\|Stones Tavern]]

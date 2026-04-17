@@ -4,7 +4,8 @@
 
 Female diviner
 wears glasses
-Stayed in [[Icewind Dale/IWD Towns/Bremen\|Bremen]] at [[Icewind Dale/IWD Locations/Buried Treasures\|Buried Treasures]]
+Stayed in [[Icewind Dale/IWD Towns/Bremen\|Bremen]] at [[Icewind Dale/IWD Locations/Bremen/Buried Treasures\|Buried Treasures]]
 Trained [[Icewind Dale/IWD Players/Caelum\|Caelum]]
-Sought after by [[Icewind Dale/IWD Players/Rintario\|Rintario]]
-Interested in [[Icewind Dale/IWD Rumours/ruins\|ruins]]
+Is missing.
+Sought after by [[Icewind Dale/IWD Players/Rintario\|Rintario]] and [[Icewind Dale/IWD NPCs/Dzaan Odesseiron\|Dzaan Odesseiron]]
+Interested in [[Icewind Dale/IWD Rumours/Ruins\|Ruins]]

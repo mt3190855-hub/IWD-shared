@@ -3,4 +3,4 @@
 ---
 
 Frostmaiden
-Blamed for the long frost
+Blamed for the [[Icewind Dale/IWD Quests/Eternal Winter\|Eternal Winter]]
