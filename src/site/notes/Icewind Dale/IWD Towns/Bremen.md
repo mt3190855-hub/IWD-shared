@@ -4,7 +4,7 @@
 
 One of the [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
 ### People
-[[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]] mow travelling
+[[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]] now travelling potentially lost
 [[Icewind Dale/IWD NPCs/Grynsk Berylbore\|Grynsk Berylbore]] fisherman
 [[Icewind Dale/IWD NPCs/Tali\|Tali]] druid?
 [[Icewind Dale/IWD NPCs/Edgar Ironspike\|Edgar Ironspike]] speaker's friend

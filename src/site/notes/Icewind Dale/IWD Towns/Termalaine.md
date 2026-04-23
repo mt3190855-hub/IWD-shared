@@ -3,7 +3,7 @@
 ---
 
 One of [[Icewind Dale/IWD Towns/Ten Towns\|Ten Towns]]
-![Termalaine.png\|347](/img/user/z_attachments/Termalaine.png)
+![Termalaine.png\|347](/img/user/z_attachments/Maps/Termalaine.png)
 ### People
 speaker is [[Icewind Dale/IWD NPCs/Oarus Masthew\|Oarus Masthew]] [[Icewind Dale/IWD Towns/Speakers\|Speakers]]
 [[Icewind Dale/IWD NPCs/Korva\|Korva]] owner of [[Icewind Dale/IWD Locations/Termalaine/The Eastside\|The Eastside]]

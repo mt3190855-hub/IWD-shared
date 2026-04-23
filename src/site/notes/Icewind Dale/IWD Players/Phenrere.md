@@ -3,3 +3,5 @@
 ---
 
 Sister of [[Icewind Dale/IWD Players/Rintario\|Rintario]]
+
+Cooks excellent rat.

@@ -4,3 +4,5 @@
 
 Brother of [[Icewind Dale/IWD Players/Phenrere\|Phenrere]]
 Searching for [[Icewind Dale/IWD NPCs/Nass Lantomir\|Nass Lantomir]]
+
+Starts fights with kobolds.

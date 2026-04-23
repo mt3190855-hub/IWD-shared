@@ -3,7 +3,7 @@
 ---
 
 
-![tentownsmap-poster.jpg](/img/user/z_attachments/tentownsmap-poster.jpg)
+![tentownsmap.jpg](/img/user/z_attachments/Maps/tentownsmap.jpg)
 
 ### The Ten Towns
 [[Icewind Dale/IWD Towns/Bremen\|Bremen]] 1.5 hours travel time to [[Icewind Dale/IWD Towns/Targos\|Targos]]

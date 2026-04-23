@@ -9,7 +9,7 @@ Hard to know time of death from cold
 We slay the ghouls and investigate the body.
 It has been killed by a skilled person using an ice knife
 The guards mention a rumour [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]] but they dont know much as first one in [[Icewind Dale/IWD Towns/Bremen\|Bremen]]
-On the body we find a [[Icewind Dale/IWD Items/polar bear carving\|polar bear carving]] and an [[Icewind Dale/IWD Items/ice knife shard\|ice knife shard]] in the wound.
+On the body we find a [[Icewind Dale/IWD Items/Archive/polar bear carving\|polar bear carving]] and an [[Icewind Dale/IWD Items/ice knife shard\|ice knife shard]] in the wound.
 
 During [[Icewind Dale/IWD Sessions/Session 2\|Session 2]]
 We discover this is just part of [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/icewind-dale/iwd-sessions/session-2/","dg-note-properties":{"fc-date":"12-Ches-1498"}}
+{"dg-publish":true,"permalink":"/icewind-dale/iwd-sessions/session-2/","tags":["Event"],"dg-note-properties":{"fc-date":"12-Ches-1498","tags":["Event"]}}
 ---
 
 ![Session 2 date.png\|466](/img/user/z_attachments/Session%202%20date.png)
@@ -8,7 +8,7 @@
 [[Icewind Dale/IWD Players/Caelum\|Caelum]] turn for journal this week.
 
 #### Summary
-The group is persuaded by [[Icewind Dale/IWD NPCs/Dzaan Odesseiron\|Dzaan Odesseiron]] to pursue [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]] and travel to [[Icewind Dale/IWD Towns/Targos\|Targos]] then [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]] in pursuit.  Before confronting the killer they decide to side quest to [[Icewind Dale/IWD Quests/Active/Monsters in Gem Mine\|Monsters in Gem Mine]].
+The group is persuaded by [[Icewind Dale/IWD NPCs/Dzaan Odesseiron\|Dzaan Odesseiron]] to solve [[Icewind Dale/IWD Quests/Active/Ice Knife Killer\|Ice Knife Killer]] and travel to [[Icewind Dale/IWD Towns/Targos\|Targos]] then [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]] in pursuit.  Before confronting the killer they decide to side quest to [[Icewind Dale/IWD Quests/Active/Monsters in Gem Mine\|Monsters in Gem Mine]].
 
 
 
@@ -25,7 +25,7 @@ They decide to travel on to [[Icewind Dale/IWD Towns/Targos\|Targos]] to pick up
 **in [[Icewind Dale/IWD Towns/Targos\|Targos]]**
 It only takes 1.5 hours to get to [[Icewind Dale/IWD Towns/Targos\|Targos]]
 The group heads straight to [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] to give him the bad news about his son [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]].
-He tells the group about [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]], a group of fanatics.  They hold the lotteries for [[Icewind Dale/IWD Quests/Active/Sacrifices\|Sacrifices]].  [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]]'s name was drawn in the last lottery, [[Icewind Dale/IWD NPCs/Ivan\|Ivan]] a member of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]] came to tell [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] and said he could fix it so someone else died if he paid, he did and a poor halfling died in his place.  However, [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]] did not feel safe and left town around 6 days ago.  The timeline ties in with someone from [[Icewind Dale/IWD NPCs/Torgg\|Torgg]] caravan, possibly a more hard core member of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]].  He mentions a strange new human guard that [[Icewind Dale/IWD NPCs/Torgg\|Torgg]] has hired that doesn't feel the cold named [[Icewind Dale/IWD NPCs/Sephek Kalto\|Sephek Kalto]], he has piercing blue eyes matching the description from [[Icewind Dale/IWD NPCs/Dzaan Odesseiron\|Dzaan Odesseiron]].  The caravan has left towards [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]] and [[Icewind Dale/IWD Towns/LonelyWood\|LonelyWood]], the group decide to pursue.  [[Icewind Dale/IWD Players/Caelum\|Caelum]] offers the [[Icewind Dale/IWD Items/polar bear carving\|polar bear carving]] to [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]], he is thankful and pays the group 6gp.
+He tells the group about [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]], a group of fanatics.  They hold the lotteries for [[Icewind Dale/IWD Quests/Active/Sacrifices\|Sacrifices]].  [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]]'s name was drawn in the last lottery, [[Icewind Dale/IWD NPCs/Ivan\|Ivan]] a member of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]] came to tell [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]] and said he could fix it so someone else died if he paid, he did and a poor halfling died in his place.  However, [[Icewind Dale/IWD NPCs/Karim Wallow\|Karim Wallow]] did not feel safe and left town around 6 days ago.  The timeline ties in with someone from [[Icewind Dale/IWD NPCs/Torgg\|Torgg]] caravan, possibly a more hard core member of [[Icewind Dale/IWD NPCs/Children of Auril\|Children of Auril]].  He mentions a strange new human guard that [[Icewind Dale/IWD NPCs/Torgg\|Torgg]] has hired that doesn't feel the cold named [[Icewind Dale/IWD NPCs/Sephek Kalto\|Sephek Kalto]], he has piercing blue eyes matching the description from [[Icewind Dale/IWD NPCs/Dzaan Odesseiron\|Dzaan Odesseiron]].  The caravan has left towards [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]] and [[Icewind Dale/IWD Towns/LonelyWood\|LonelyWood]], the group decide to pursue.  [[Icewind Dale/IWD Players/Caelum\|Caelum]] offers the [[Icewind Dale/IWD Items/Archive/polar bear carving\|polar bear carving]] to [[Icewind Dale/IWD NPCs/Antori Wallow\|Antori Wallow]], he is thankful and pays the group 6gp.
 
 The group follow the caravan and push on to [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]].
 

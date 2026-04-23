@@ -11,7 +11,7 @@ now gives extra fire damage
 
 In [[Icewind Dale/IWD Sessions/Session 2\|Session 2]]
 An elven woman with a red cloak stayed at the [[Icewind Dale/IWD Locations/Bremen/Buried Treasures\|Buried Treasures]] inn ten years ago
-Was running from someone she knew
+Was running from someone she knew, stormy/windy when she was there
 Gave the ring to the owner of the [[Icewind Dale/IWD Locations/Bremen/Buried Treasures\|Buried Treasures]]
 Took a boat towards [[Icewind Dale/IWD Towns/Termalaine\|Termalaine]] or [[Icewind Dale/IWD Towns/LonelyWood\|LonelyWood]], maybe they know something.
 Stopped being beneficial about a year ago.
